@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/Raihan/Documents/Yoo2/src/Entity/Text.java</file>
+            <file>file:/C:/Users/Raihan/Documents/Yoo2/src/Enemies/ZombieBoss.java</file>
+            <file>file:/C:/Users/Raihan/Documents/Yoo2/src/GameState/Level2State.java</file>
+            <file>file:/C:/Users/Raihan/Documents/Yoo2/src/Entity/Object.java</file>
+            <file>file:/C:/Users/Raihan/Documents/Yoo2/src/Objects/ExtraAmmo.java</file>
+            <file>file:/C:/Users/Raihan/Documents/Yoo2/src/Objects/BounceObject.java</file>
+            <file>file:/C:/Users/Raihan/Documents/Yoo2/src/TileMap/Tile.java</file>
+            <file>file:/C:/Users/Raihan/Documents/Yoo2/src/Entity/FireBall.java</file>
+            <file>file:/C:/Users/Raihan/Documents/Yoo2/src/Main/Game.java</file>
+            <file>file:/C:/Users/Raihan/Documents/Yoo2/src/SavingAccessories/SavePlayer.java</file>
+            <file>file:/C:/Users/Raihan/Documents/Yoo2/src/GameState/LoadState.java</file>
+            <file>file:/C:/Users/Raihan/Documents/Yoo2/src/GameState/MenuState.java</file>
+            <file>file:/C:/Users/Raihan/Documents/Yoo2/src/Entity/Explosion.java</file>
+            <file>file:/C:/Users/Raihan/Documents/Yoo2/src/GameState/GameStateManager.java</file>
+            <file>file:/C:/Users/Raihan/Documents/Yoo2/src/GameState/Level1State.java</file>
+            <file>file:/C:/Users/Raihan/Documents/Yoo2/src/GameState/HelpState.java</file>
+            <file>file:/C:/Users/Raihan/Documents/Yoo2/src/Enemies/Zombie.java</file>
+            <file>file:/C:/Users/Raihan/Documents/Yoo2/src/TileMap/TileMap.java</file>
+            <file>file:/C:/Users/Raihan/Documents/Yoo2/src/Enemies/Bat.java</file>
+            <file>file:/C:/Users/Raihan/Documents/Yoo2/src/Music/AudioPlayer.java</file>
+            <file>file:/C:/Users/Raihan/Documents/Yoo2/src/GameState/Level3State.java</file>
+            <file>file:/C:/Users/Raihan/Documents/Yoo2/src/Entity/HUD.java</file>
+            <file>file:/C:/Users/Raihan/Documents/Yoo2/src/Entity/Enemy.java</file>
+            <file>file:/C:/Users/Raihan/Documents/Yoo2/src/Objects/ExtraHeart.java</file>
+            <file>file:/C:/Users/Raihan/Documents/Yoo2/src/GameState/GameState.java</file>
+            <file>file:/C:/Users/Raihan/Documents/Yoo2/src/Entity/Player.java</file>
+            <file>file:/C:/Users/Raihan/Documents/Yoo2/src/Main/GamePanel.java</file>
+            <file>file:/C:/Users/Raihan/Documents/Yoo2/src/GameState/LevelState.java</file>
+            <file>file:/C:/Users/Raihan/Documents/Yoo2/src/TileMap/Background.java</file>
+            <file>file:/C:/Users/Raihan/Documents/Yoo2/src/SavingAccessories/SaveEnemy.java</file>
+            <file>file:/C:/Users/Raihan/Documents/Yoo2/src/Objects/FireObject.java</file>
+            <file>file:/C:/Users/Raihan/Documents/Yoo2/src/Entity/Animation.java</file>
+            <file>file:/C:/Users/Raihan/Documents/Yoo2/src/Entity/MapObject.java</file>
+        </group>
+    </open-files>
+</project-private>
